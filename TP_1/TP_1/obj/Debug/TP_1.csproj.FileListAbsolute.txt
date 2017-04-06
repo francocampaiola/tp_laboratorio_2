@@ -6,3 +6,7 @@ C:\Users\Equipo de Franco\Desktop\TP_1\TP_1\obj\Debug\TP_1.Properties.Resources.
 C:\Users\Equipo de Franco\Desktop\TP_1\TP_1\obj\Debug\TP_1.csproj.GenerateResource.Cache
 C:\Users\Equipo de Franco\Desktop\TP_1\TP_1\obj\Debug\TP_1.exe
 C:\Users\Equipo de Franco\Desktop\TP_1\TP_1\obj\Debug\TP_1.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_1\TP_1\bin\Debug\TP_1.exe.config
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_1\TP_1\obj\Debug\TP_1.exe
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_1\TP_1\obj\Debug\TP_1.pdb
+C:\Users\Equipo de Franco\Desktop\TP_1\TP_1\obj\Debug\TP_1.csprojResolveAssemblyReference.cache
