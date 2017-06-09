@@ -30,3 +30,6 @@ C:\Users\Equipo de Franco\Desktop\UTN Programacion 2017\tp2 CASI terminado 09-05
 C:\Users\Equipo de Franco\Desktop\UTN Programacion 2017\tp2 CASI terminado 09-05\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\Equipo de Franco\Desktop\UTN Programacion 2017\tp2 CASI terminado 09-05\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\Equipo de Franco\Desktop\UTN Programacion 2017\tp2 CASI terminado 09-05\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_2\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_2\TP-02\TP-02\obj\Debug\TP-02.pdb

@@ -1,0 +1,4 @@
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

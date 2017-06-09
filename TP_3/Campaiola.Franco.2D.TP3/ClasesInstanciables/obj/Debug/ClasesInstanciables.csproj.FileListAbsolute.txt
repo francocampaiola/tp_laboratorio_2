@@ -1,0 +1,11 @@
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\TP3.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\TP3.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb

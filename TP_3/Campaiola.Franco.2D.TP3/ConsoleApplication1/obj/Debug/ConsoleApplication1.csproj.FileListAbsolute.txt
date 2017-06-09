@@ -1,0 +1,14 @@
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\TP3.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\TP3.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb

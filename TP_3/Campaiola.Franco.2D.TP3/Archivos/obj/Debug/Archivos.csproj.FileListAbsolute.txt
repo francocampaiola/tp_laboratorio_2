@@ -1,0 +1,7 @@
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.pdb
