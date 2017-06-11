@@ -8,7 +8,12 @@ namespace Excepciones
 {
     public class AlumnoRepetidoException: Exception
     {
+        #region Constructores
+        /// <summary>
+        /// Lanza una excepción sobre un alumno repetido.
+        /// </summary>
         public AlumnoRepetidoException(): base ("Alumno repetido")
         { }
+        #endregion
     }
 }

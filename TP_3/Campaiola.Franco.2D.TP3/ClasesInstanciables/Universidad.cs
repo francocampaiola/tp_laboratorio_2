@@ -10,16 +10,26 @@ using Excepciones;
 
 namespace ClasesInstanciables
 {
+    #region Serialización
+
     [Serializable]
     [XmlInclude(typeof(Alumno))]
     [XmlInclude(typeof(Jornada))]
     [XmlInclude(typeof(Profesor))]
 
+    #endregion
+
     public class Universidad
     {
+        #region Atributos
+
         private List<Alumno> _alumnos;
         private List<Jornada> _jornada;
         private List<Profesor> _profesor;
+
+        #endregion
+
+        #region Propiedades L/E
 
         public List<Alumno> Alumnos
         {
@@ -45,6 +55,13 @@ namespace ClasesInstanciables
             set { this._jornada[i] = value; }
         }
 
+        #endregion
+
+        #region Constructores
+
+        /// <summary>
+        /// Inicializa una universidad.
+        /// </summary>
         public Universidad()
         {
             this._alumnos = new List<Alumno>();
@@ -52,6 +69,15 @@ namespace ClasesInstanciables
             this._profesor = new List<Profesor>();
         }
 
+        #endregion
+
+        #region Sobrecarga de Operadores
+        /// <summary>
+        /// Evalúa si un alumno se encuentra en una universidad.
+        /// </summary>
+        /// <param name="g">Universidad a evaluar</param>
+        /// <param name="a">Alumno a evaluar</param>
+        /// <returns></returns>
         public static bool operator ==(Universidad g, Alumno a)
         {
             foreach (Alumno aux in g._alumnos)
@@ -63,11 +89,23 @@ namespace ClasesInstanciables
             return false;
         }
 
+        /// <summary>
+        /// Evalúa si un alumno no se encuentra en una universidad.
+        /// </summary>
+        /// <param name="g">Universidad a evaluar</param>
+        /// <param name="a">Alumno a evaluar</param>
+        /// <returns></returns>
         public static bool operator !=(Universidad g, Alumno a)
         {
             return !(g == a);
         }
 
+        /// <summary>
+        /// Evalúa si un profesor se encuentra en una universidad.
+        /// </summary>
+        /// <param name="g">Universidad a evaluar</param>
+        /// <param name="i">Profesor a evaluar</param>
+        /// <returns></returns>
         public static bool operator ==(Universidad g, Profesor i)
         {
             bool retorno = false;
@@ -81,11 +119,23 @@ namespace ClasesInstanciables
             return retorno;
         }
 
+        /// <summary>
+        /// Evalúa si un profesor no se encuentra en una universidad.
+        /// </summary>
+        /// <param name="g">Universidad a evaluar</param>
+        /// <param name="i">Profesor a evaluar</param>
+        /// <returns></returns>
         public static bool operator !=(Universidad g, Profesor i)
         {
             return !(g == i);
         }
 
+        /// <summary>
+        /// Agrega una clase a una universidad.
+        /// </summary>
+        /// <param name="g">Universidad a la que la clase será agregada</param>
+        /// <param name="clase">Clase a agregar</param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad g, EClases clase)
         {
             Jornada j = new Jornada(clase, g == clase);
@@ -102,6 +152,12 @@ namespace ClasesInstanciables
             return g;
         }
 
+        /// <summary>
+        /// Agrega un alumno a una universidad.
+        /// </summary>
+        /// <param name="g">Universidad a la que el alumno será agregado</param>
+        /// <param name="a">Alumno a agregar</param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad g, Alumno a)
         {
             foreach (Alumno aux in g._alumnos)
@@ -114,6 +170,12 @@ namespace ClasesInstanciables
             return g;
         }
 
+        /// <summary>
+        /// Agrega un profesor a una universidad.
+        /// </summary>
+        /// <param name="g">Universidad a la que el profesor será agregado</param>
+        /// <param name="i">Profesor a agregar</param>
+        /// <returns></returns>
         public static Universidad operator +(Universidad g, Profesor i)
         {
             foreach (Profesor aux in g._profesor)
@@ -126,6 +188,12 @@ namespace ClasesInstanciables
             return g;
         }
 
+        /// <summary>
+        /// Evalúa si en una universidad se brinda cierta clase.
+        /// </summary>
+        /// <param name="g">Universidad a evaluar</param>
+        /// <param name="clase">Clase a evaluar</param>
+        /// <returns></returns>
         public static Profesor operator ==(Universidad g, EClases clase)
         {
             foreach (Profesor aux in g._profesor)
@@ -137,6 +205,12 @@ namespace ClasesInstanciables
             throw new SinProfesorException();
         }
 
+        /// <summary>
+        /// Evalúa si en una universidad no se brinda cierta clase.
+        /// </summary>
+        /// <param name="g">Universidad a evaluar</param>
+        /// <param name="clase">Clase a evaluar</param>
+        /// <returns></returns>
         public static Profesor operator !=(Universidad g, EClases clase)
         {
             foreach (Profesor aux in g._profesor)
@@ -148,11 +222,28 @@ namespace ClasesInstanciables
             throw new SinProfesorException();
         }
 
+        #endregion
+
+        #region Polimorfismo ToString
+
+        /// <summary>
+        /// Retorna los datos de una universidad.
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return Universidad.MostrarDatos(this);
         }
 
+        #endregion
+
+        #region Métodos
+
+        /// <summary>
+        /// Devuelve los datos de una universidad en específica.
+        /// </summary>
+        /// <param name="gim">Universidad a evaluar</param>
+        /// <returns></returns>
         private static string MostrarDatos(Universidad gim)
         {
             StringBuilder sb = new StringBuilder();
@@ -173,10 +264,17 @@ namespace ClasesInstanciables
             return sb.ToString();
         }
 
+        /// <summary>
+        /// Guarda una universidad en un archivo de texto.
+        /// </summary>
+        /// <param name="gim">Universidad a ser guardada</param>
+        /// <returns></returns>
         public static bool Guardar(Universidad gim)
         {
             Xml<Universidad> arc = new Xml<Universidad>();
             return arc.Guardar(@"C:\\Universidad.xml", gim);
         }
+
+        #endregion
     }
 }

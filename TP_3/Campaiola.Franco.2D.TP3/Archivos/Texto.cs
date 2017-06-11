@@ -10,6 +10,7 @@ namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
+        #region Métodos
         public bool Guardar(string archivo, string datos)
         {
             bool retorno;
@@ -50,5 +51,6 @@ namespace Archivos
 
             return retorno;
         }
+        #endregion
     }
 }

@@ -12,6 +12,7 @@ namespace Archivos
 {
     public class Xml<T>: IArchivo<T>
     {
+        #region Métodos
         public bool Guardar(string archivo, T datos)
         {
             try
@@ -48,5 +49,6 @@ namespace Archivos
                 return false; 
             }
         }
+        #endregion
     }
 }

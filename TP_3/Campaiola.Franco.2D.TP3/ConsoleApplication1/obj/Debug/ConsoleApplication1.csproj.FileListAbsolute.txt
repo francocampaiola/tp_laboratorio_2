@@ -12,3 +12,6 @@ F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
 F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
 F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
 F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
