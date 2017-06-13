@@ -9,3 +9,14 @@ F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
 F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
 F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
 F:\C#\TP3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\TP3.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\TP3.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

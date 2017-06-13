@@ -15,3 +15,14 @@ F:\C#\TP3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
 C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\TP3.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\TP3.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

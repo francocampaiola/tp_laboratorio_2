@@ -1,0 +1,13 @@
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\Test Unitario.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\Test Unitario.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\Archivos.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\ClasesInstanciables.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\Excepciones.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\TP3.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\Archivos.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\TP3.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\bin\Debug\Excepciones.pdb
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\obj\Debug\Test Unitario.csprojResolveAssemblyReference.cache
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\obj\Debug\Test Unitario.dll
+C:\Users\Equipo de Franco\Documents\tp_laboratorio_2\TP_3\Campaiola.Franco.2D.TP3\Test Unitario\obj\Debug\Test Unitario.pdb
