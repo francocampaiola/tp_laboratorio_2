@@ -1,0 +1,10 @@
+CLASE DE SPD POR Nombre completo: Lopez, Juan
+Nacionalidad: Argentino
+Legajo: 1
+
+CLASES DEL DIA: 
+SPD
+SPD
+
+ALUMNOS: 
+<-------------------------------->

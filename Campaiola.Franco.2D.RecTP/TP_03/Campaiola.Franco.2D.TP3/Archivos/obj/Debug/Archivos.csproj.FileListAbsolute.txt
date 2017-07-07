@@ -1,0 +1,21 @@
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.dll
+F:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+G:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.dll
+G:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+G:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+G:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+G:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+G:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.dll
+G:\C#\TP3\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Equipo de Franco\Desktop\TP3 ENTREGA FINAL\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Equipo de Franco\Desktop\TP3 ENTREGA FINAL\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Equipo de Franco\Desktop\TP3 ENTREGA FINAL\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Equipo de Franco\Desktop\TP3 ENTREGA FINAL\Campaiola.Franco.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Equipo de Franco\Desktop\TP3 ENTREGA FINAL\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Equipo de Franco\Desktop\TP3 ENTREGA FINAL\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Equipo de Franco\Desktop\TP3 ENTREGA FINAL\Campaiola.Franco.2D.TP3\Archivos\obj\Debug\Archivos.pdb
